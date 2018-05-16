@@ -1,0 +1,10 @@
+C:\Users\kq\Desktop\NUnit-master\NUnit\NUnit\obj\Debug\NUnit.csprojResolveAssemblyReference.cache
+C:\Users\kq\Desktop\NUnit-master\NUnit\NUnit\obj\Debug\NUnit.csproj.CoreCompileInputs.cache
+C:\Users\kq\Desktop\NUnit-master\NUnit\NUnit\bin\Debug\GeometricFigures.dll
+C:\Users\kq\Desktop\NUnit-master\NUnit\NUnit\bin\Debug\nunit.framework.dll
+C:\Users\kq\Desktop\NUnit-master\NUnit\NUnit\obj\Debug\NUnit.csproj.CopyComplete
+C:\Users\kq\Desktop\NUnit-master\NUnit\NUnit\bin\Debug\NUnit.exe.config
+C:\Users\kq\Desktop\NUnit-master\NUnit\NUnit\bin\Debug\NUnit.exe
+C:\Users\kq\Desktop\NUnit-master\NUnit\NUnit\bin\Debug\NUnit.pdb
+C:\Users\kq\Desktop\NUnit-master\NUnit\NUnit\obj\Debug\NUnit.exe
+C:\Users\kq\Desktop\NUnit-master\NUnit\NUnit\obj\Debug\NUnit.pdb
